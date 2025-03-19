@@ -338,7 +338,7 @@ A Zero Trust model requires:
     
 * **Use least privileged access**. Limit user access with **Just In Time** and **Just Enough Access (JIT/JEA).**
     
-* Assume breach.
+* **Assume breach.**
     
 * Verify all sessions are encrypted end to end. Use analytics to get visibility, drive threat detection, and improve defenses
     
