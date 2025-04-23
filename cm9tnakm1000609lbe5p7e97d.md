@@ -12,7 +12,17 @@ tags: architecture, togaf, architecture-design
 
 According to Gartner, **Enterprise Architecture is the process of translating business vision and strategy into effective enterprise change** by creating, communicating, and improving the key principles and models that describe the enterprise's future state and enable its evolution10 . DoDAF defines it as **a set of abstractions and models that simplify and communicate complex structures, processes, rules, and constraints to improve understanding, implementation, forecasting, and resourcing**
 
-Work in progress
+## Why does DoDAF has an architecture framework?
+
+DoDAF has an architecture framework because the US Department of Defense (DoD) recognised the need for a structured approach to manage its complex structures and information.
+
+Here's a breakdown of why DoDAF has an architecture framework:
+
+The **TOGAF Standard, Version 1, was originally based on the US Department of Defense Technical Architecture Framework for Information Management (TAFIM)**1 .... This indicates that the DoD, the entity behind what we now know as DoDAF, saw the value in having a technical architecture framework as early as 1995.
+
+TAFIM was the result of significant development effort and investment by the US Government. This foundational work highlights the DoD's early understanding of the importance of a structured approach to architecture.
+
+**Work in progress**
 
 # Glossary
 
