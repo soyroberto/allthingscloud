@@ -5,6 +5,7 @@ seoDescription: "Explore the role of Enterprise Architecture in transforming bus
 datePublished: Wed Apr 23 2025 08:01:34 GMT+0000 (Coordinated Universal Time)
 cuid: cm9tnakm1000609lbe5p7e97d
 slug: enterprise-architecture
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1745395499524/82161523-9336-4e8d-a804-97ecfc64b0c2.png
 tags: architecture, togaf, architecture-design
 
 ---
